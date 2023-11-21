@@ -114,7 +114,8 @@ Execute the program
 ```
 
 ## OUTPUT
-##![Alt text](<Screenshot from 2023-11-21 17-29-47.png>) OUPUT
+## ![Screenshot from 2023-11-21 17-29-47](https://github.com/DHARUNYADEVI/timetable/assets/147473847/436d8f12-8d45-4a48-a205-ba1f9d1f7cb5)
+
 
 ## RESULT
 The programfor creating slot timetable using basic HTML tag is executed successfully
