@@ -5,13 +5,15 @@ To Write a html webpage page to display your timetable.
 
 # ALGORITHM
 ### STEP 1
-create a simple table using table tag
+create a django-admin interface.
 ### STEP 2
-Add header row using th tag
+create a static folder and inert HTML code.
 ### STEP 3
-Add your timetable
+create a simple table using ```<table>```tag in html.
 ### STEP 4
-Execute the program
+Add header row using ```<th>```tag.
+### Step 5
+execute the program using runserver command.
 
 ### PROGRAM
 ```
